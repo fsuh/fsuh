@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fsuh
-- 👀 I’m interested in shell scripting and Python
-- 🌱 I’m currently learning Linux System Administration and AWS DevOps
-- 💞️ I’m looking to collaborate on shell scripting and Python programming
-- 📫 How to reach me writetosuh@gmail.com
+- 👀 I’m interested in web development and DevOps
+- 🌱 I’m currently learning JS, HTML, CSS , REACTJs, NodeJs and Typescript
+- 💞️ I’m a certified AWS system solutions Architect Associate, and also skilled in Linux System Administration
+- 💞️ I can also confidently operate some DevOps tools such as Jenkins, Maven, Ansible, Terraform, Docker, Kubernetes, and Apache Tomcat among others 
 
 <!---
 fsuh/fsuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
