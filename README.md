@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fsuh
 - 👀 I’m interested in web development and DevOps
-- 🌱 I’m currently learning JS, HTML, CSS , REACTJs, NodeJs and Typescript
-- 💞️ I’m a certified AWS system solutions Architect Associate, and also skilled in Linux System Administration
-- 💞️ I can also confidently operate some DevOps tools such as Jenkins, Maven, Ansible, Terraform, Docker, Kubernetes, and Apache Tomcat among others 
+- 🌱 I’m currently a full stack web development student at Helsinki Business College
+
 
 <!---
 fsuh/fsuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
