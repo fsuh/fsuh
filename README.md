@@ -28,6 +28,19 @@ I also enjoy Data sciences and analytics
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="30" height="30" />         
 </p>
 
+### Sample Projects
+
+Recipe Sharing Web Application: https://github.com/fsuh/tasteIT
+
+Web Application Game - speedy mosquito: https://github.com/fsuh/Speedy_Mosquitoe
+
+Pokemon Search Web Application: https://github.com/fsuh/PokeApp
+
+Snake Game: https://github.com/fsuh/snakeGame
+
+Background Generator: https://github.com/fsuh/REACT22s_JS_Sandbox_Magrit/tree/main/Bg_generator
+
+
 
 
 
