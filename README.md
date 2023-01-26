@@ -30,6 +30,8 @@ I also enjoy Data sciences and analytics
 
 ### Sample Projects
 
+Sample tour App: https://ambazonia-tour.netlify.app/
+
 Recipe Sharing Web Application: https://github.com/fsuh/tasteIT
 
 Web Application Game - speedy mosquito: https://github.com/fsuh/Speedy_Mosquitoe
