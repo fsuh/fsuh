@@ -3,11 +3,9 @@
 
 ![Full Stack web Developer](https://media.giphy.com/media/S3azrhWupBm61PszDr/giphy-downsized-large.gif)
 
-I am an Epidemiologist, but I am also interested in Software programming and Web Development
+I am currently Full-stack web developer intern at TUTORS.fi
 
-I also enjoy Data sciences and analytics
-
-- 🌱 I’m currently learning Full stack web Development @BC Helsinki 
+Studied @ Helsinki Busincess College
 
 
 ### Skills
