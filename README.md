@@ -28,6 +28,8 @@ Studied @ Helsinki Busincess College
 
 ### Sample Projects
 
+Unsplash search App: https://fsuh-unsplash-app.netlify.app/
+
 Sample tour App: https://ambazonia-tour.netlify.app/
 
 Recipe Sharing Web Application: https://github.com/fsuh/tasteIT
