@@ -34,7 +34,7 @@ Sample tour App: https://ambazonia-tour.netlify.app/
 
 Recipe Sharing Web Application: https://github.com/fsuh/tasteIT
 
-Web Application Game - speedy mosquito: https://github.com/fsuh/Speedy_Mosquitoe
+Web Application Game - speedy mosquito: https://fsuh.github.io/Speedy_Mosquitoe/
 
 Pokemon Search Web Application: https://github.com/fsuh/PokeApp
 
