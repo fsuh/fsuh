@@ -30,6 +30,8 @@ Studied @ Helsinki Busincess College
 
 All Deployed projects: https://fsuh-deployed-projects.netlify.app/
 
+GithubUsers search: https://fsuh-githubusers-search.netlify.app/
+
 Fsuh Shop: https://fsuh-shop.netlify.app/
 
 Unsplash search App: https://fsuh-unsplash-app.netlify.app/
