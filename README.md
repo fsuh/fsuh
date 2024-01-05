@@ -3,9 +3,8 @@
 
 ![Full Stack web Developer](https://media.giphy.com/media/S3azrhWupBm61PszDr/giphy-downsized-large.gif)
 
-I am currently Full-stack web developer intern at TUTORS.fi
+I am currently Full-stack web developer at TUTORS Finland oy
 
-Studied @ Helsinki Busincess College
 
 
 ### Skills
@@ -27,6 +26,8 @@ Studied @ Helsinki Busincess College
 </p>
 
 ### Sample Projects
+
+Portfolio: https://fsuh.netlify.app/
 
 All Deployed projects: https://fsuh-deployed-projects.netlify.app/
 
